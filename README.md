@@ -1,0 +1,2 @@
+# pn
+obsidian vault
